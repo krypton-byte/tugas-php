@@ -40,10 +40,11 @@
 
                     }
                 ?>
+                </select><br/>
         Diagnosa: <input type="text" name="diagnosa" size="55" maxlength="80"><br/>
         <input type="submit" value="Simpan"><input type="reset" value="Reset">
     </form>
-    <p></a href="menu4.php" target="main">Kembali Ke Menu Perawatan </a></p>
+    <p><a href="menu4.php" target="main">Kembali Ke Menu Perawatan </a></p>
 </body>
 </html>
 <?php
